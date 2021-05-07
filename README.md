@@ -1,4 +1,4 @@
-Nearly empty javascript project with a failing test!
+This project was created for apply TDD concepts.
 ===
 
 To install the required modules:
